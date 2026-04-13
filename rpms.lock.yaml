@@ -1,0 +1,64 @@
+---
+lockfileVersion: 1
+lockfileVendor: redhat
+arches:
+- arch: x86_64
+  packages:
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/l/libuv-1.51.0-1.el10_0.x86_64.rpm
+    repoid: ubi-10-for-x86_64-appstream-rpms
+    size: 268507
+    checksum: sha256:a789e70791d038e7002a9921dea74006110f4a156376a80b73fabb427f02bba0
+    name: libuv
+    evr: 1:1.51.0-1.el10_0
+    sourcerpm: libuv-1.51.0-1.el10_0.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/n/nodejs-22.22.2-1.el10_1.x86_64.rpm
+    repoid: ubi-10-for-x86_64-appstream-rpms
+    size: 59583
+    checksum: sha256:35d57559d5e83f6f2867a0b0ad4eb1a94bee7e0be656dca2529a5dd312b37962
+    name: nodejs
+    evr: 1:22.22.2-1.el10_1
+    sourcerpm: nodejs22-22.22.2-1.el10_1.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/n/nodejs-docs-22.22.2-1.el10_1.noarch.rpm
+    repoid: ubi-10-for-x86_64-appstream-rpms
+    size: 9697003
+    checksum: sha256:c2de925b62b21d28b187533741f61a3ff3a92661908c0955bd4a64be55ad16d0
+    name: nodejs-docs
+    evr: 1:22.22.2-1.el10_1
+    sourcerpm: nodejs22-22.22.2-1.el10_1.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/n/nodejs-full-i18n-22.22.2-1.el10_1.x86_64.rpm
+    repoid: ubi-10-for-x86_64-appstream-rpms
+    size: 9308615
+    checksum: sha256:a3881b37d08ea430fe5489149198c251e16cd594898e84ff8401d11725f4d50d
+    name: nodejs-full-i18n
+    evr: 1:22.22.2-1.el10_1
+    sourcerpm: nodejs22-22.22.2-1.el10_1.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/n/nodejs-libs-22.22.2-1.el10_1.x86_64.rpm
+    repoid: ubi-10-for-x86_64-appstream-rpms
+    size: 20802032
+    checksum: sha256:122d21feee824155652e6805932c91b0e5935887c0be306dab294e524c09636a
+    name: nodejs-libs
+    evr: 1:22.22.2-1.el10_1
+    sourcerpm: nodejs22-22.22.2-1.el10_1.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/n/nodejs-npm-10.9.7-1.22.22.2.1.el10_1.x86_64.rpm
+    repoid: ubi-10-for-x86_64-appstream-rpms
+    size: 2613866
+    checksum: sha256:df7509797fa24e28116e4b9fc8f530d1f2d88aa470b383902a7a709c04dfc22e
+    name: nodejs-npm
+    evr: 1:10.9.7-1.22.22.2.1.el10_1
+    sourcerpm: nodejs22-22.22.2-1.el10_1.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/baseos/os/Packages/l/libbrotli-1.1.0-7.el10_1.x86_64.rpm
+    repoid: ubi-10-for-x86_64-baseos-rpms
+    size: 352691
+    checksum: sha256:894800ee7893f8e4aa1d3870afb22b54d92624134bc7cf5d2cdc1a1db92366db
+    name: libbrotli
+    evr: 1.1.0-7.el10_1
+    sourcerpm: brotli-1.1.0-7.el10_1.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/baseos/os/Packages/o/openssl-3.5.1-7.el10_1.x86_64.rpm
+    repoid: ubi-10-for-x86_64-baseos-rpms
+    size: 1332067
+    checksum: sha256:50284410b98fd8dce23e20ab3ebb485295570f5bf0b7a969bca9beca1b92c360
+    name: openssl
+    evr: 1:3.5.1-7.el10_1
+    sourcerpm: openssl-3.5.1-7.el10_1.src.rpm
+  source: []
+  module_metadata: []

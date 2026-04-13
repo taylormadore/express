@@ -1,0 +1,6 @@
+contentOrigin:
+  repofiles:
+    - /etc/yum.repos.d/ubi.repo
+packages:
+  - nodejs
+  - nodejs-npm
