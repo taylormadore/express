@@ -10,4 +10,4 @@ RUN dnf install -y \
     nodejs-npm \
     && dnf clean all
 
-RUN NPM_CONFIG_REGISTRY=https://artifact-registry-proxy.caching.svc.cluster.local/repository/npm-proxy/ npm ci
+RUN npm ci
