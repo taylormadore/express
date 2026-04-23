@@ -6,7 +6,6 @@ npm-shrinkwrap.json
 
 # Yarn
 yarn-error.log
-yarn.lock
 
 # Coveralls
 .nyc_output

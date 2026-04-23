@@ -7,7 +7,6 @@ RUN dnf install -y \
     --setopt install_weak_deps=0 \
     --nodocs \
     nodejs \
-    nodejs-npm \
     && dnf clean all
 
-RUN npm ci
+RUN .yarn/releases/yarn-4.14.1.cjs install
