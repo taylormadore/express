@@ -1334,7 +1334,7 @@ __metadata:
     express-session: "npm:^1.18.1"
     finalhandler: "npm:^2.1.0"
     fresh: "npm:^2.0.0"
-    hbs: "npm:4.2.0"
+    hbs: "npm:4.2.1"
     http-errors: "npm:^2.0.0"
     marked: "npm:^15.0.3"
     merge-descriptors: "npm:^2.0.0"
@@ -1758,12 +1758,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"handlebars@npm:4.7.7":
-  version: 4.7.7
-  resolution: "handlebars@npm:4.7.7"
+"handlebars@npm:4.7.9":
+  version: 4.7.9
+  resolution: "handlebars@npm:4.7.9"
   dependencies:
     minimist: "npm:^1.2.5"
-    neo-async: "npm:^2.6.0"
+    neo-async: "npm:^2.6.2"
     source-map: "npm:^0.6.1"
     uglify-js: "npm:^3.1.4"
     wordwrap: "npm:^1.0.0"
@@ -1772,7 +1772,7 @@ __metadata:
       optional: true
   bin:
     handlebars: bin/handlebars
-  checksum: 10c0/4c0913fc0018a2a2e358ee94e4fe83f071762b8bec51a473d187e6642e94e569843adcf550ffe329554c63ad450c062f3a05447bd2e3fff5ebfe698e214225c6
+  checksum: 10c0/22f8105a7e68e81aff2662bb434edf05f757d21d850731d71cec886d69c10cd33d3c43e34b2892968ec62de8241611851d3d0674c8ef324ea3e01dc66262faa9
   languageName: node
   linkType: hard
 
@@ -1818,13 +1818,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hbs@npm:4.2.0":
-  version: 4.2.0
-  resolution: "hbs@npm:4.2.0"
+"hbs@npm:4.2.1":
+  version: 4.2.1
+  resolution: "hbs@npm:4.2.1"
   dependencies:
-    handlebars: "npm:4.7.7"
+    handlebars: "npm:4.7.9"
     walk: "npm:2.3.15"
-  checksum: 10c0/94edabf66075021c41d676d05d95c8aa646cd8231dbdd68d01ebbf84ab5948369f6da47a02043d5cdc56a6d449517faaf832e2c2128668b8421370aa19cd796d
+  checksum: 10c0/025477d6f06d5be6b773896193315256095dbee3b318fd87fa612a6ecc4d597768764dd5d82d69b64313212f813356846bd1ecf3d76bd4021f9578dc1292cdfa
   languageName: node
   linkType: hard
 
@@ -2480,7 +2480,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"neo-async@npm:^2.6.0":
+"neo-async@npm:^2.6.2":
   version: 2.6.2
   resolution: "neo-async@npm:2.6.2"
   checksum: 10c0/c2f5a604a54a8ec5438a342e1f356dff4bc33ccccdb6dc668d94fe8e5eccfc9d2c2eea6064b0967a767ba63b33763f51ccf2cd2441b461a7322656c1f06b3f5d
