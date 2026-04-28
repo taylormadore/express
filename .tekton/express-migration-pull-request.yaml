@@ -197,6 +197,10 @@ spec:
         value: $(tasks.clone-repository.results.SOURCE_ARTIFACT)
       - name: enable-package-registry-proxy
         value: $(params.enable-package-registry-proxy)
+      - name: config-file-content
+        value: |
+          runtime:
+            concurrency_limit: 20
       matrix:
         params:
         - name: instance
