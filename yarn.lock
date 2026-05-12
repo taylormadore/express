@@ -834,6 +834,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"content-type@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "content-type@npm:2.0.0"
+  checksum: 10c0/491539fff707d7594b0ca4fabcc084bef2a31ffa754ff0a4f80c4377e3963cff0394317f9271c24087596c97fa675bc123d61fa34ffe65b4904e7d3d3098de72
+  languageName: node
+  linkType: hard
+
 "convert-source-map@npm:^1.7.0":
   version: 1.9.0
   resolution: "convert-source-map@npm:1.9.0"
@@ -1319,7 +1326,7 @@ __metadata:
     body-parser: "npm:^2.2.1"
     connect-redis: "npm:^8.0.1"
     content-disposition: "npm:^1.0.0"
-    content-type: "npm:^1.0.5"
+    content-type: "npm:^2.0.0"
     cookie: "npm:^1.0.0"
     cookie-parser: "npm:1.4.7"
     cookie-session: "npm:2.1.1"
