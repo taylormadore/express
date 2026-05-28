@@ -820,10 +820,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"content-disposition@npm:^1.0.0":
-  version: 1.1.0
-  resolution: "content-disposition@npm:1.1.0"
-  checksum: 10c0/94e0aef65873e69330f5f187fbc44ebce593bdcb8013dd8a68b7d0f159ca089bd30db3f8095d829f81c341695b60a6085ee6e15e6d775c4a325b586cc8d91974
+"content-disposition@npm:^2.0.0":
+  version: 2.0.1
+  resolution: "content-disposition@npm:2.0.1"
+  checksum: 10c0/8ba0e1f95102343a69a9a4b6f17728209d4ff0402b830b7cda91dcdfbb12eed0201dcd02aaa1e56f9bcf1c5b8ccef4a70e83b58292cf26588d8d5f7d05a0c006
   languageName: node
   linkType: hard
 
@@ -1318,7 +1318,7 @@ __metadata:
     after: "npm:0.8.2"
     body-parser: "npm:^2.2.1"
     connect-redis: "npm:^8.0.1"
-    content-disposition: "npm:^1.0.0"
+    content-disposition: "npm:^2.0.0"
     content-type: "npm:^1.0.5"
     cookie: "npm:^1.0.0"
     cookie-parser: "npm:1.4.7"
