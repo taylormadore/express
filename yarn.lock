@@ -1334,7 +1334,7 @@ __metadata:
     express-session: "npm:^1.18.1"
     finalhandler: "npm:^2.1.0"
     fresh: "npm:^2.0.0"
-    hbs: "npm:4.2.1"
+    hbs: "npm:4.3.0"
     http-errors: "npm:^2.0.0"
     marked: "npm:^15.0.3"
     merge-descriptors: "npm:^2.0.0"
@@ -1818,13 +1818,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hbs@npm:4.2.1":
-  version: 4.2.1
-  resolution: "hbs@npm:4.2.1"
+"hbs@npm:4.3.0":
+  version: 4.3.0
+  resolution: "hbs@npm:4.3.0"
   dependencies:
     handlebars: "npm:4.7.9"
     walk: "npm:2.3.15"
-  checksum: 10c0/025477d6f06d5be6b773896193315256095dbee3b318fd87fa612a6ecc4d597768764dd5d82d69b64313212f813356846bd1ecf3d76bd4021f9578dc1292cdfa
+  checksum: 10c0/cfeaa4e53662d76aa80b01d63167fe739f5da34159b7763726fd0839c2fdeefb717b821f36b4b0210b9e641f217aaf5c204c4c6d4a053a0d32be7c0b8632ad6f
   languageName: node
   linkType: hard
 
