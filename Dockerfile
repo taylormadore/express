@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi10/ubi@sha256:37d90a02d14afed06b6fff1ed0a33cd07b96187e90ed46d8871fdce550538b43
+FROM registry.access.redhat.com/ubi10/ubi@sha256:6e3f045f5380e8d8dffaea7e01bf926d2db44aff751048697e780d1253687843
 
 WORKDIR /src
 COPY . .
