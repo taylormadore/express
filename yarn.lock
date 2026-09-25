@@ -834,6 +834,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"content-type@npm:^3.1.1":
+  version: 3.1.1
+  resolution: "content-type@npm:3.1.1"
+  checksum: 10c0/a9ff3f2afac5aae1356f545e19fc0d6dca644ee3bf694b788f178185954bfe46ba51ca309950e40e07681290da0b7934652fdb5b7fa4ec1e7d43cb71bd703e1f
+  languageName: node
+  linkType: hard
+
 "convert-source-map@npm:^1.7.0":
   version: 1.9.0
   resolution: "convert-source-map@npm:1.9.0"
@@ -1355,7 +1362,7 @@ __metadata:
     serve-static: "npm:^2.2.0"
     statuses: "npm:^2.0.1"
     supertest: "npm:^6.3.0"
-    type-is: "npm:^2.0.1"
+    type-is: "npm:^3.0.0"
     vary: "npm:^1.1.2"
     vhost: "npm:~3.0.2"
   languageName: unknown
@@ -3338,6 +3345,15 @@ __metadata:
     media-typer: "npm:^1.1.0"
     mime-types: "npm:^3.0.0"
   checksum: 10c0/7f7ec0a060b16880bdad36824ab37c26019454b67d73e8a465ed5a3587440fbe158bc765f0da68344498235c877e7dbbb1600beccc94628ed05599d667951b99
+  languageName: node
+  linkType: hard
+
+"type-is@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "type-is@npm:3.0.0"
+  dependencies:
+    content-type: "npm:^3.1.1"
+  checksum: 10c0/5ad958098d3da7d09aa8c2ccdb5978b6f044fab3d5f6bc5a9b99771aab59b040e280b4766b593ccae4b642073795aed8eea78cda98744b8f3d22380db9a76c20
   languageName: node
   linkType: hard
 
