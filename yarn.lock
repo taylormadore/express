@@ -1334,7 +1334,7 @@ __metadata:
     express-session: "npm:^1.18.1"
     finalhandler: "npm:^2.1.0"
     fresh: "npm:^2.0.0"
-    hbs: "npm:4.2.1"
+    hbs: "npm:4.4.0"
     http-errors: "npm:^2.0.0"
     marked: "npm:^15.0.3"
     merge-descriptors: "npm:^2.0.0"
@@ -1758,11 +1758,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"handlebars@npm:4.7.9":
-  version: 4.7.9
-  resolution: "handlebars@npm:4.7.9"
+"handlebars@npm:4.7.10":
+  version: 4.7.10
+  resolution: "handlebars@npm:4.7.10"
   dependencies:
-    minimist: "npm:^1.2.5"
+    minimist: "npm:^1.2.8"
     neo-async: "npm:^2.6.2"
     source-map: "npm:^0.6.1"
     uglify-js: "npm:^3.1.4"
@@ -1772,7 +1772,7 @@ __metadata:
       optional: true
   bin:
     handlebars: bin/handlebars
-  checksum: 10c0/22f8105a7e68e81aff2662bb434edf05f757d21d850731d71cec886d69c10cd33d3c43e34b2892968ec62de8241611851d3d0674c8ef324ea3e01dc66262faa9
+  checksum: 10c0/9b5573584ae5836172ae3f1502d9819568ba1b92ee83b81b18223beeb4c07486595e7b0fa633102beabc66ed06fe6e7da1dd9a9ea8c7072b9550b9a88809165c
   languageName: node
   linkType: hard
 
@@ -1818,13 +1818,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hbs@npm:4.2.1":
-  version: 4.2.1
-  resolution: "hbs@npm:4.2.1"
+"hbs@npm:4.4.0":
+  version: 4.4.0
+  resolution: "hbs@npm:4.4.0"
   dependencies:
-    handlebars: "npm:4.7.9"
+    handlebars: "npm:4.7.10"
     walk: "npm:2.3.15"
-  checksum: 10c0/025477d6f06d5be6b773896193315256095dbee3b318fd87fa612a6ecc4d597768764dd5d82d69b64313212f813356846bd1ecf3d76bd4021f9578dc1292cdfa
+  checksum: 10c0/a41a2ffcf97c56bf36dd9411e4ff8c5289ebff3ad81c62defb252fbed3245690f9ee86a8ac9d914bafb52ecefab0bc18fa4e65244df0e0cf8350a6d812461279
   languageName: node
   linkType: hard
 
@@ -2385,7 +2385,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minimist@npm:^1.2.5":
+"minimist@npm:^1.2.8":
   version: 1.2.8
   resolution: "minimist@npm:1.2.8"
   checksum: 10c0/19d3fcdca050087b84c2029841a093691a91259a47def2f18222f41e7645a0b7c44ef4b40e88a1e58a40c84d2ef0ee6047c55594d298146d0eb3f6b737c20ce6
