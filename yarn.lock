@@ -1092,6 +1092,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"encodeurl@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "encodeurl@npm:3.0.0"
+  checksum: 10c0/5756ccdd7a40179cfdce4f27f2fb4c74d19ef454cadd386b08cac3712f1f1a23ada8b94163085044f4e5ec3615f120f3b2e8b5f29227d1bdd132e2593cdb4943
+  languageName: node
+  linkType: hard
+
 "env-paths@npm:^2.2.0":
   version: 2.2.1
   resolution: "env-paths@npm:2.2.1"
@@ -1327,7 +1334,7 @@ __metadata:
     debug: "npm:^4.4.0"
     depd: "npm:^2.0.0"
     ejs: "npm:^3.1.10"
-    encodeurl: "npm:^2.0.0"
+    encodeurl: "npm:^3.0.0"
     escape-html: "npm:^1.0.3"
     eslint: "npm:8.57.1"
     etag: "npm:^1.8.1"
