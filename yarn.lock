@@ -811,12 +811,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"connect-redis@npm:^8.0.1":
-  version: 8.1.0
-  resolution: "connect-redis@npm:8.1.0"
+"connect-redis@npm:^11.0.0":
+  version: 11.0.0
+  resolution: "connect-redis@npm:11.0.0"
   peerDependencies:
     express-session: ">=1"
-  checksum: 10c0/ce08b467cb88177e0553fe338cb2cb96745d644a969255665588da8eab48f17ca0790c038e2de71e53c968ddbc9da10e2fa23c7980c1ff62e072c8b166435527
+    redis: ">=5"
+  checksum: 10c0/688500f09a3782702101d1aac8fdf70bb34fb4166d4b48c7f2090d1252b89e0c544fc753f54db232c827f0793c88f2137702ab6c232f63a1f053b24473c372d5
   languageName: node
   linkType: hard
 
@@ -1317,7 +1318,7 @@ __metadata:
     accepts: "npm:^2.0.0"
     after: "npm:0.8.2"
     body-parser: "npm:^2.2.1"
-    connect-redis: "npm:^8.0.1"
+    connect-redis: "npm:^11.0.0"
     content-disposition: "npm:^1.0.0"
     content-type: "npm:^1.0.5"
     cookie: "npm:^1.0.0"
