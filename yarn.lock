@@ -1356,7 +1356,7 @@ __metadata:
     statuses: "npm:^2.0.1"
     supertest: "npm:^6.3.0"
     type-is: "npm:^2.0.1"
-    vary: "npm:^1.1.2"
+    vary: "npm:^2.0.0"
     vhost: "npm:~3.0.2"
   languageName: unknown
   linkType: soft
@@ -3414,7 +3414,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vary@npm:^1.1.2, vary@npm:~1.1.2":
+"vary@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "vary@npm:2.0.0"
+  checksum: 10c0/b4450d1891442d25d0beb2ef64c50409c5ea9e113aed82fe1e43502999fa5c0e10d2341f0472736d8899e4bf7d0618542b7be472e25633774081f1eb0e7c9287
+  languageName: node
+  linkType: hard
+
+"vary@npm:~1.1.2":
   version: 1.1.2
   resolution: "vary@npm:1.1.2"
   checksum: 10c0/f15d588d79f3675135ba783c91a4083dcd290a2a5be9fcb6514220a1634e23df116847b1cc51f66bfb0644cf9353b2abb7815ae499bab06e46dd33c1a6bf1f4f
